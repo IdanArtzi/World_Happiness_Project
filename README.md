@@ -15,6 +15,10 @@ Generative AI (ChatGPT) was used to assist in generating Python code for data an
 - Pandas, Matplotlib, Seaborn, Plotly, Dash
 - ChatGPT (GenAI assistance)
 
+## Dashboard 
+link to the dashboard:
+file:///Users/user/Desktop/IBM%20Data%20Analytics%20/Happiness%20Dashboard.html
+
 ## Exploratory Data Analysis
 In this project I wanted to find the main factors that influences happiness around the world. 
 by compering different attributes and visualizng them I was able to find positive and negative patterns in the dataset.
