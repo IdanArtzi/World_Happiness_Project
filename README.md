@@ -1,19 +1,19 @@
-# World Happiness - Gen AI Project
+## World Happiness Analysis – GenAI-Assisted EDA
+# Project Overview
+This project analyzes the key factors influencing happiness across countries and regions using the World Happiness Report (2016) dataset. The goal was to identify economic, social, and institutional drivers of happiness through exploratory data analysis and visualization.
+Generative AI (ChatGPT) was used to assist in generating Python code for data analysis and visualization, allowing faster iteration while maintaining full control over logic, validation, and interpretation.
 
-## Into
-This project analyses what are the main factors that influence happiness accros different countries and regions of the world.
-For this project I used ChatGPT as my Gen AI tool to help me generate all python code used in this project. 
-By giving the right commands, and making sure that the code snippets generated are correct for my use case, I was able to increase efficiency and complete the project within a couple of hours. 
+## Dataset 📊
+- Source: World Happiness Report 2016 (Kaggle)
+- URL: https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download&select=2016.csv
+- Format: Clean CSV file
+- Preprocessing: No data cleaning required
 
-## About the Data 
-The dataset used in this project is the world happiness survey of 2016, from Kaggle :
-https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download&select=2016.csv
-this dataset is a clean CSV file, meaning no data cleaning was performed in this project. 
-
-## Technologies used
-- Jupyter Notebooks
-- Python libraries; Pandas, Matplotlib, Seaborn, Plotly, and Dash
-- ChatGPT
+## Technologies used 🛠 
+- Python
+- Jupyter Notebook
+- Pandas, Matplotlib, Seaborn, Plotly, Dash
+- ChatGPT (GenAI assistance)
 
 ## Exploratory Data Analysis
 In this project I wanted to find the main factors that influences happiness around the world. 
