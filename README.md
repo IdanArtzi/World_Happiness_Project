@@ -16,31 +16,34 @@ Generative AI (ChatGPT) was used to assist in generating Python code for data an
 - ChatGPT (GenAI assistance)
 
 ## Dashboard 
-link to the dashboard:
+link to the interactive dashboard:
 file:///Users/user/Desktop/IBM%20Data%20Analytics%20/Happiness%20Dashboard.html
 
-## Exploratory Data Analysis
-In this project I wanted to find the main factors that influences happiness around the world. 
-by compering different attributes and visualizng them I was able to find positive and negative patterns in the dataset.
-
+## Executive Summary
+The following visualizations help understand the patterns and attributes that incluence global happiness.
 
 ### Correlation Heatmap
-The correlation heatmap indicates that economic prosperity, strong family relationships, and longer healthy life expectancy are consistently associated with higher happiness scores.
+The Three main attributes that are correlated with higher happiness scores:
+- economic prosperity
+- strong family relationships
+- longer healthy life expectancy
 ![Correlation Heatmap](images/gen_ai_heatmap.png)
 
 ### GDP per Capita vs Happiness
 This scatter plot comparing GDP per capita and happiness across regions shows a strong upward trend: 
-Wealthier regions tend to report greater life satisfaction. 
-However, several countries stand out by achieving higher happiness levels than their GDP alone would predict—suggesting cultural, social, or governance-driven effects.
+- Wealthier regions tend to report greater life satisfaction. 
+- However, several countries have a higher happiness scores than their GDP would suggest, Costa Rica, Brazil, Aregentina and Panama, they all share the same region - Latin America.
+- On top of that, the countries with the highest GDP are not the happiest countries, such as Qatar, Kuwait, Luxembourg and Singapure.
+- On the other side of the trend, we can see that the majority of countries at the bottom of the happiness score and low GDP are from Sub-Saharan region, showing a geographical disadvantage that has a negative effect both on economic and happiness scores in this region.
+- We can understand that there are several effects on happiness, not only ecomonic, but also cultural, social and govermental. 
 ![GDP vs Happiness](images/gen_ai_scatter.png)
 
 ### Happiness by Region
 The pie chart reveals regional disparities, with certain regions contributing disproportionately to higher happiness scores. 
-This reinforces the understanding that global well-being is not evenly distributed.
+Such as North America and Australia & New Zealand. 
 ![Happiness by Region](images/gen_ai_pie.png)
 
 ### Global Happiness Map
 Finally, the global map visually connects economic strength and public health outcomes. 
-The happier the country, the brighter it'll be on the map. 
 Countries with high GDP per capita also display higher healthy life expectancy in the tooltip data, reflecting the intertwined nature of economic and social development.
 ![Global Happiness](images/gen_ai_choropleth.png)
