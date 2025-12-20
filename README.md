@@ -1,4 +1,4 @@
-## World Happiness Analysis – GenAI-Assisted EDA
+## World Happiness Analysis – Gen AI-Assisted EDA
 # Project Overview
 This project analyzes the key factors influencing happiness across countries and regions using the World Happiness Report (2016) dataset. The goal was to identify economic, social, and institutional drivers of happiness through exploratory data analysis and visualization.
 Generative AI (ChatGPT) was used to assist in generating Python code for data analysis and visualization, allowing faster iteration while maintaining full control over logic, validation, and interpretation.
