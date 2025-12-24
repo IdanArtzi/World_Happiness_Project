@@ -31,8 +31,8 @@ The Three main attributes that are correlated with higher happiness scores:
 This scatter plot comparing GDP per capita and happiness across regions shows a strong upward trend:
 
 - **There are several factors that effect happiness; economic, cultural, social, geographical and govermental**
-- **Overall Trend**  Wealthier countries tend to report greater life satisfaction. 
-- **Cultural Happiness?** - Several countries from Latin America have a higher happiness scores than their GDP would suggest (Costa Rica, Brazil, Aregentina and Panama).
+- **Overall Trend** - Wealthier countries tend to report greater life satisfaction. 
+- **Cultural Happiness?** - Several countries from Latin America have a higher happiness scores than their GDP would suggest (Costa Rica, Puerto Rico, Brazil, Aregentina and Panama).
 - **Money isn't everything!** - The countries with the highest GDP per Capita, are not the happiest countries (Qatar, Kuwait, Luxembourg and Singapure).
 - **The West vs The Rest?** edit!! - does the western societies score higher than the Rest of the world, outliers? such as east asia, and Israel? 
 - On the other side of the trend, we can see that the majority of countries at the bottom of the happiness score and low GDP are from Sub-Saharan region, showing a geographical disadvantage that has a negative effect both on economic and happiness scores in this region.
