@@ -1,4 +1,4 @@
-## World Happiness Analysis – Gen AI-Assisted EDA
+## World Happiness Analysis 
 # Project Overview
 This project analyzes the key factors influencing happiness across countries and regions using the World Happiness Report (2016) dataset. The goal was to identify economic, social, and institutional drivers of happiness through exploratory data analysis and visualization.
 Generative AI (ChatGPT) was used to assist in generating Python code for data analysis and visualization, allowing faster iteration while maintaining full control over logic, validation, and interpretation.
@@ -6,8 +6,6 @@ Generative AI (ChatGPT) was used to assist in generating Python code for data an
 ## Dataset 📊
 - Source: World Happiness Report 2016 (Kaggle)
 - URL: https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download&select=2016.csv
-- Format: Clean CSV file
-- Preprocessing: No data cleaning required
 
 ## Technologies used 🛠 
 - Python
@@ -30,12 +28,14 @@ The Three main attributes that are correlated with higher happiness scores:
 ![Correlation Heatmap](images/gen_ai_heatmap.png)
 
 ### GDP per Capita vs Happiness
-This scatter plot comparing GDP per capita and happiness across regions shows a strong upward trend: 
-- Wealthier regions tend to report greater life satisfaction. 
-- However, several countries have a higher happiness scores than their GDP would suggest, Costa Rica, Brazil, Aregentina and Panama, they all share the same region - Latin America.
-- On top of that, the countries with the highest GDP are not the happiest countries, such as Qatar, Kuwait, Luxembourg and Singapure.
+This scatter plot comparing GDP per capita and happiness across regions shows a strong upward trend:
+
+- **There are several factors that effect happiness; economic, cultural, social, geographical and govermental**
+- **Overall Trend**  Wealthier countries tend to report greater life satisfaction. 
+- **Cultural Happiness?** - Several countries from Latin America have a higher happiness scores than their GDP would suggest (Costa Rica, Brazil, Aregentina and Panama).
+- **Money isn't everything!** - The countries with the highest GDP per Capita, are not the happiest countries (Qatar, Kuwait, Luxembourg and Singapure).
+- **The West vs The Rest?** edit!! - does the western societies score higher than the Rest of the world, outliers? such as east asia, and Israel? 
 - On the other side of the trend, we can see that the majority of countries at the bottom of the happiness score and low GDP are from Sub-Saharan region, showing a geographical disadvantage that has a negative effect both on economic and happiness scores in this region.
-- We can understand that there are several effects on happiness, not only ecomonic, but also cultural, social and govermental. 
 ![GDP vs Happiness](images/gen_ai_scatter.png)
 
 ### Happiness by Region
