@@ -15,7 +15,7 @@ Generative AI (ChatGPT) was used to assist in generating Python code for data an
 
 ## Dashboard 
 link to the interactive dashboard:
-file:///Users/user/Desktop/IBM%20Data%20Analytics%20/Happiness%20Dashboard.html
+file:///Users/user/Desktop/Data%20Analytics/IBM%20Data%20Analytics%20/Happiness%20Dashboard_files/DASHBOARD-Global_Happiness_Survey.html
 
 ## Executive Summary
 The following visualizations help understand the patterns and attributes that incluence global happiness.
